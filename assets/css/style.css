@@ -70,3 +70,8 @@ br {
 .icons {
   color: black;
 }
+
+#projectName {
+  padding-left: 45px;
+  color: #4aaaa5;
+}
